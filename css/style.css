@@ -37,7 +37,7 @@ body {
     font-smoothing: antialiased;
 }
 body {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 16px;
     line-height: 1.75em;
     font-weight: 400;
@@ -75,7 +75,7 @@ h6 {
     font-size: 16px;
 }
 p {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 16px;
     line-height: 1.75em;
     margin: 0 0 20px;
@@ -222,7 +222,7 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
 }
 input[type="password"]:focus,
 input[type="email"]:focus,
@@ -251,7 +251,7 @@ textarea,
     box-shadow: none;
     display: block;
     width: 100%;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -267,7 +267,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"],
 button {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     background: #b08c3e;
     border: 1px solid #b08c3e;
     color: #fff;
@@ -302,7 +302,7 @@ label {
     -moz-appearance: none;
     display: inline-block;
     vertical-align: middle;
-        font-family: 'Nunito Sans', sans-serif;
+        font-family: 'League Spartan', sans-serif;
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -412,7 +412,7 @@ input[type=radio]:checked:before {
     -ms-border-radius: 0;
     border-radius: 0;
     padding: 0;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 18px;
     line-height: 1.75em;
     font-weight: 400;
@@ -426,7 +426,7 @@ input[type=radio]:checked:before {
     border: 1px solid #ececec;
 }
 #message {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     height: 130px;
     padding: 12px;
     border: 1px solid #ececec;
@@ -560,7 +560,7 @@ input[type=radio]:checked:before {
     
 }
 .navbar .navbar-nav .nav-link {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #fff;
@@ -660,7 +660,7 @@ input[type=radio]:checked:before {
 }
 .logo-wrapper .logo span {
     display: block;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 9px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -724,7 +724,7 @@ input[type=radio]:checked:before {
 .dropdown-menu .dropdown-item,
 .sub-menu .dropdown-item {
     padding: 5px 15px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 16px;
     font-weight: 400;
     color: #1b1b1b;
@@ -825,7 +825,7 @@ color: #b08c3e;
 .banner-header h5 {
     color: #fff;
     font-size: 14px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-weight: 400;
     margin-bottom: 15px;
     margin-top: 15px;
@@ -941,7 +941,7 @@ color: #b08c3e;
 .mary-hero .flexslider .slider-text > .slider-text-inner h6 {
     font-size: 16px;
     color: #fff;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     text-transform: uppercase;
     font-weight: 400;
     margin: 0;
@@ -1013,14 +1013,14 @@ color: #b08c3e;
     color: #b08c3e;
     font-size: 14px;
     font-weight: 400;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     margin-bottom: 10px;
     letter-spacing: 5px;
     text-transform: uppercase;
 }
 .rsvp h2 {
     color: #1b1b1b;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-weight: 400;
     font-size: 36px;
     margin-bottom: 10px;
@@ -1083,7 +1083,7 @@ color: #b08c3e;
 .bride-groom .info h6 {
     font-size: 16px;
     margin-bottom: 10px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -1190,7 +1190,7 @@ color: #b08c3e;
 }
 .story .caption h6 {
     color: #b08c3e;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 12px;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -1231,7 +1231,7 @@ color: #b08c3e;
 #countdown .section-head span {
     display: block;
     position: relative;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-weight: 400;
     font-size: 18px;
     color: #fff;
@@ -1249,7 +1249,7 @@ color: #b08c3e;
     font-weight: 400;
     letter-spacing: 5px;
     text-transform: uppercase;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     margin-bottom: 10px;
 }
 #countdown .section-head p {
@@ -1262,7 +1262,7 @@ color: #b08c3e;
     padding: 0;
 }
 #countdown li {
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-weight: 400;
     display: inline-block;
     font-size: 12px;
@@ -1276,7 +1276,7 @@ color: #b08c3e;
 }
 #countdown li span {
       display: block;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 70px;
     font-weight: 700;
     color: #fff;
@@ -1304,7 +1304,7 @@ color: #b08c3e;
 #banner .section-head span {
     display: block;
     position: relative;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-weight: 400;
     font-size: 18px;
     color: #fff;
@@ -1324,7 +1324,7 @@ color: #b08c3e;
     font-weight: 400;
     letter-spacing: 5px;
     text-transform: uppercase;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     margin-bottom: 10px;
 }
 #banner .section-head h1 {
@@ -1332,7 +1332,7 @@ color: #b08c3e;
     color: #fff;
     font-size: 40px;
     font-weight: 400;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     margin-bottom: 20px;
 }
 #banner .section-head p {
@@ -1364,7 +1364,7 @@ color: #b08c3e;
 .friends .info h6 {
     font-size: 16px;
     margin-bottom: 0px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -1420,7 +1420,7 @@ overflow: hidden !important;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-weight: 400;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     margin-bottom: 10px;
 }
 .story-video .video-wrapper .vid {
@@ -1519,7 +1519,7 @@ overflow: hidden !important;
 }
 .events .caption h6 {
     color: #b08c3e;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 12px;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -1578,13 +1578,13 @@ overflow: hidden !important;
     font-weight: 600;
     color: #b08c3e;
     margin-bottom: 0px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
 }
 .when-where .content .date h6 {
     color: #666;
     letter-spacing: 3px;
     font-size: 12px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     text-transform: uppercase;
 }
 .when-where .content .cont {
@@ -1664,7 +1664,7 @@ overflow: hidden !important;
     font-size: 12px;
     letter-spacing: 5px;
     color: #b08c3e;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     text-transform: uppercase;
     margin-bottom: 10px;
 }
@@ -1816,7 +1816,7 @@ overflow: hidden !important;
   z-index: 2;
 }
 .marybrian-blog .content .date h1 {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 70px;
     font-weight: 400;
     color: #b08c3e;
@@ -1826,7 +1826,7 @@ overflow: hidden !important;
     color: #666;
     letter-spacing: 3px;
     font-size: 12px;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     text-transform: uppercase;
     font-weight: 400;
 	padding-right: 3px;
@@ -1868,7 +1868,7 @@ overflow: hidden !important;
     font-size: 12px;
     letter-spacing: 3px;
     color: #666;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     text-transform: uppercase;
 }
 .marybrian-blog .content .info .tags {
@@ -2170,7 +2170,7 @@ overflow: hidden !important;
     margin-left: 20px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'League Spartan', sans-serif;
 }
 .blog-repay {
     font-size: 13px;
@@ -2461,7 +2461,7 @@ overflow: hidden !important;
     margin-bottom: 10px;
 }
 .top-footer h6 {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     color: #fff;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -2474,7 +2474,7 @@ overflow: hidden !important;
     border-top: 1px solid rgba(255,255,255,0.03);
 }
 .sub-footer p {
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'League Spartan', sans-serif;
     font-size: 14px;
     color: #666;
 }
