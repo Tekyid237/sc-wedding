@@ -142,9 +142,6 @@
         contentWayPoint();
     });
     
-    // YouTubePopUp
-    $("a.vid").YouTubePopUp();
-    
     // Story owlCarousel
     $('.story .owl-carousel').owlCarousel({
         loop: true

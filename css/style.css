@@ -1555,7 +1555,7 @@ overflow: hidden !important;
 .when-where .content .date {
   display: table-cell;
   position: relative;
-  width: 80px;
+  width: 105px;
   z-index: 2;
 }
 .when-where .content .date h3 {
