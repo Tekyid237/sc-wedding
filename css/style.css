@@ -2427,6 +2427,15 @@ overflow: hidden !important;
 .top-footer {
     padding: 120px 0 0 0;
 }
+.top-footer h1 {
+    font-size: 40px;
+    display: block;
+    width: 100%;
+    position: relative;
+    color: #fff;
+    letter-spacing: 0px;
+    margin-bottom: 10px;
+}
 .top-footer h2 {
     font-size: 60px;
     display: block;
